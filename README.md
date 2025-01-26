@@ -22,7 +22,7 @@ Este é um jogo da memória desenvolvido com Vue.js. O objetivo é encontrar tod
 ### 1️⃣ Rodar Localmente
 1. **Clone este repositório:**
    ```sh
-   git clone https://github.com/seuusuario/jogo-memoria-vue.git
+   git clone https://github.com/gabriel-hrs/jogo-da-memoria
    ```
 2. **Acesse a pasta do projeto:**
    ```sh
